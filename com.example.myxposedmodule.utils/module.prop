@@ -1,0 +1,6 @@
+id=com.example.myxposedmodule
+name=MyXposedModule
+version=1.0
+versionCode=1
+author=YourName
+description=A simple Xposed module 
